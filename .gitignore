@@ -1,0 +1,6 @@
+node_modules
+blockchain-deployment.md
+.env
+.vscode-janus-debug
+.history
+.vscode
